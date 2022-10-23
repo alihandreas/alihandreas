@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently learning java 
+I’m looking for help with swiftiu
 How to reach me - kdralihan@gmail.com
